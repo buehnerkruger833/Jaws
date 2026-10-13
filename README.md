@@ -215,4 +215,4 @@ JAWS is offered as a complete free version for Windows, with all features and up
 Don’t wait any longer! Unlock the full potential of your computer with JAWS today and experience the freedom of accessible computing.
 
 ---
-**Last updated:** 2026-10-13 19:37:37 UTC
+**Last updated:** 2026-10-13 23:29:42 UTC
